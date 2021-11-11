@@ -25,7 +25,7 @@
   <img alt="dtmoney" src=".github/dtmoney.png" width="100%">
 </p> -->
 
-## 🚀f About the project
+## 🚀 About the project
 
 [dt money](https://dtmoney.vercel.app/) is a project created in [Rocketseat](https://rocketseat.com.br/) Ignite ReactJS training.
 
